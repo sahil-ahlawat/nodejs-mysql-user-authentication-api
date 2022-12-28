@@ -1,8 +1,23 @@
 # NodeJS Auth REST API example with Express, Mysql, and JWT
+## Current Goal ( Phase 1 )
+1: To build an opensource secure prebuilt api backend for web and mobile apps.
 
-## Features
+## Future Goal ( Phase 2 )
+1: To convert this codebase into a mature headless CMS.
+
+## Completed Features
 1. User can sign up
 2. User can sign in
+3: Reset password
+4: Forgot password ( email part pending )
+6: CSRF token generator ( ideally this should be forst request and token should be in every request header after that )
+7: User can update personal info
+
+## Todo in phase 1
+1: add generic contect crud, which can be used with any sort of api need.
+2: add user roles.
+3: write oendijg tests.
+4: Get more suggestions, help, forks and stars.
 
 ## API endpoints
 
