@@ -23,7 +23,8 @@
 
 1. `POST /api/auth/signup`: Creates a new user
 2. `POST /api/auth/signin`: Logs in a user
-3. `POST api/auth/getloggedinuserdata`: Get logged in user data (TO DO: Remove password from the sent fields)
+3. `POST /api/auth/getloggedinuserdata`: Get logged in user data (TO DO: Remove password from the sent fields)
+4. `POST /api/auth/forgotpassword`: Email sending feature has to be added.
 
 ## Body Payload Specification
 Signup expects
