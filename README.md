@@ -67,7 +67,7 @@ Signin expects
 You can either fork this repository or clone it by starting your terminal, then change the directory to where you would like to save it and run
 
 ```sh
-git clone https://github.com/desirekaleba/node-mysql-jwt-auth.git
+git clone <repo url>
 ```
 Change to the newly downloaded directory with
 
